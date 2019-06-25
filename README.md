@@ -1,2 +1,3 @@
 # ncRNA_study
-Analyzing and exploring
+Recoding the code for analyzing and exploring ncRNA. :)
+
